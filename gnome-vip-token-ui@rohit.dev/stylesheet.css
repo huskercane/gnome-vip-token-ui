@@ -25,6 +25,10 @@
   padding: 0px 3px;
 }
 
+.pie-class {
+  height: 40px;
+  width: 40px;
+}
 .your-icon-name {
   background-image: url("icons/viptoken.svg");
   background-size: 20px;
