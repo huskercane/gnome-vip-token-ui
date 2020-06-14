@@ -1,0 +1,7 @@
+{
+    "shell-version": ["3.36"],
+    "uuid": "gnome-vip-token-ui@rohit.dev",
+    "name": "VIP Token",
+    "url": "https://github.com/huskercane/gnome-vip-token-ui",
+    "description": "A simple ui to show vip token and timer before it expires, then start over again"
+}

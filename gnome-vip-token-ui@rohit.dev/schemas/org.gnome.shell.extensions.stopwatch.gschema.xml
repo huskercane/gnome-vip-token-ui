@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<schemalist>
+  <schema path="/org/gnome/shell/extensions/viptoken/" id="org.gnome.shell.extensions.viptoken">
+    <key type="b" name="copy-on-show">
+      <default>true</default>
+      <summary>If true, copy automatically to clipboard.</summary>
+    </key>
+  </schema>
+</schemalist>
